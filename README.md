@@ -16,8 +16,8 @@
 |E11|[폐렴아 기다려라!](https://github.com/stevekhkim/Aiffel/blob/master/exploration/%5BE11%5D%20Pneumonia_Classification.ipynb)|CV, Data Augmentation|
 |E12|[다음에 볼 영화 예측하기](https://github.com/stevekhkim/Aiffel/blob/master/exploration/%5BE12%5D%20Movie_Session_Based_Recommendation.ipynb)|Session Based Recommendation System|
 |E13|[인공지능으로 세상에 없던 새로운 패션 만들기](https://github.com/stevekhkim/Aiffel/blob/master/exploration/%5BE13%5D%20DCGAN_Cifar10.ipynb)|GAN|
-|E14|[어제 오른 내 주식, 과연 내일은?](https://github.com/stevekhkim/Aiffel/blob/master/exploration/%5BE14%5D%20Stock_Market_Prediction.ipynb)|
-|E15|[트랜스포머로 만드는 대화형 챗봇](https://github.com/stevekhkim/Aiffel/blob/master/exploration/%5BE15%5D%20Transformer_Chatbot.ipynb)|
+|E14|[어제 오른 내 주식, 과연 내일은?](https://github.com/stevekhkim/Aiffel/blob/master/exploration/%5BE14%5D%20Stock_Market_Prediction.ipynb)|Time series|
+|E15|[트랜스포머로 만드는 대화형 챗봇](https://github.com/stevekhkim/Aiffel/blob/master/exploration/%5BE15%5D%20Transformer_Chatbot.ipynb)|NLP, Transformer|
 |E16|[흐린 사진을 선명하게](https://github.com/stevekhkim/Aiffel/blob/master/exploration/%5BE16%5D%20Super_Resolution_SRGAN.ipynb)|SRGAN|
 |E17|[인간보다 퀴즈를 잘푸는 인공지능](https://github.com/stevekhkim/Aiffel/blob/master/exploration/%5BE17%5D%20BERT_Quizbot.ipynb)|NLP, BERT|
 |E18|[문자를 읽을 수 있는 딥러닝](https://github.com/stevekhkim/Aiffel/blob/master/exploration/%5BE18%5D%20OCR.ipynb)|OCR|
