@@ -1,8 +1,8 @@
 # Aiffel 강남 2기 X SOCAR 교육 및 프로젝트
 
 ## Exploration Node
-|순번|주제|학습내용|튜토리얼|프로젝트|
-|-|--------|---------|--------------|-----------------|
+|순번|주제|학습내용|
+|-|--------|---------|
 |E01|[인공지능과 가위바위보 하기](https://github.com/stevekhkim/Aiffel/blob/master/exploration/%5BE01%5D%20Rock_Scissors_Paper.ipynb)|Image Classification|
 |E02|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://github.com/stevekhkim/Aiffel/blob/master/exploration/%5BE02%5D%20Iris_Classification.ipynb)|Classification, Scikit-learn|
 |E03|[카메라 스티커앱 만들기 첫걸음](https://github.com/stevekhkim/Aiffel/blob/master/exploration/%5BE03%5D%20Camera_Sticker_App.ipynb)|CV, Open CV|
